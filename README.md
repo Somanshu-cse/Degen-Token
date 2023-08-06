@@ -11,9 +11,9 @@ The Degen Gaming Token contract provides the following functionality:
 2. *Transferring tokens:* Players can transfer their tokens to others.
 
 3. *Redeeming tokens:* Players can redeem their tokens for items in the in-game store. The available items and their costs are as follows:
-   - Iron sword: 400 DGN
-   - Golden sword: 900 DGN
-   - Diamond sword: 1500 DGN
+   - M416 Glacier : 400 DGN
+   - Pharaoh X Suit : 900 DGN
+   - McLaren 570S : 1500 DGN
 
 4. *Checking token balance:* Players can check their token balance at any time.
 
