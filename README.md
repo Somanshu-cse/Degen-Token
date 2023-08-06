@@ -140,11 +140,12 @@ To burn tokens that are no longer needed, call the `burn` function, specifying t
 
 
 ## Authors
-Sutirtho Chakravorty
+somanshu sharma
 
-[GITHUB](https://github.com/Sutirtho9)
 
-[EMAIL](mailto:sutirthochakravorty@gmail.com)
+
+[EMAIL](somanshusharma888@gmail.com)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](https://license.md/) file for details.
